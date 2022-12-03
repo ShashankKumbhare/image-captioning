@@ -1,27 +1,45 @@
-# CVND---Image-Captioning-Project
 
-# Instructions  
-1. Clone this repo: https://github.com/cocodataset/cocoapi  
-```
-git clone https://github.com/cocodataset/cocoapi.git  
-```
+# Image Captioning
 
-2. Setup the coco API (also described in the readme [here](https://github.com/cocodataset/cocoapi)) 
-```
-cd cocoapi/PythonAPI  
-make  
-cd ..
-```
+### A lstm based recurrent neural network architecture to automatically generate captions from images.
 
-3. Download some specific data from here: http://cocodataset.org/#download (described below)
+<p align="center"><img src=https://raw.githubusercontent.com/ShashankKumbhare/image-captioning/main/images/encoder-decoder.png  width="500"></p>
 
-* Under **Annotations**, download:
-  * **2014 Train/Val annotations [241MB]** (extract captions_train2014.json and captions_val2014.json, and place at locations cocoapi/annotations/captions_train2014.json and cocoapi/annotations/captions_val2014.json, respectively)  
-  * **2014 Testing Image info [1MB]** (extract image_info_test2014.json and place at location cocoapi/annotations/image_info_test2014.json)
+## Table of Contents
 
-* Under **Images**, download:
-  * **2014 Train images [83K/13GB]** (extract the train2014 folder and place at location cocoapi/images/train2014/)
-  * **2014 Val images [41K/6GB]** (extract the val2014 folder and place at location cocoapi/images/val2014/)
-  * **2014 Test images [41K/6GB]** (extract the test2014 folder and place at location cocoapi/images/test2014/)
+- [**Project Overview**](#Project-Overview)
+- [**Data Description**](#Data-Description)
+- [**Results**](#Results)
 
-4. The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order (`0_Dataset.ipynb, 1_Preliminaries.ipynb, 2_Training.ipynb, 3_Inference.ipynb`).
+---
+
+## Project Overview
+
+- The project is broken up into a few main parts in 4 Python notebooks:
+  - [Notebook 1](): .  
+  - [Notebook 2](): .  
+  - [Notebook 3](): .  
+  - [Notebook 4](): .  
+
+---
+
+## Data Description
+
+<p align="center">
+  <img src="" height="200" />
+  <img src="" height="200" />
+</p>
+
+- .  
+- .  
+
+**Training and Testing Data**  
+- 
+
+<p align="center"><img src=  width="600"></p>
+
+Note: Datasets are explored in [Notebook 1]().  
+
+## Results
+
+
