@@ -1,7 +1,7 @@
 
 # Image Captioning
 
-### A lstm based recurrent neural network architecture to automatically generate captions from images.
+### A LSTM based recurrent neural network architecture to automatically generate captions from images.
 
 <p align="center"><img src=https://raw.githubusercontent.com/ShashankKumbhare/image-captioning/main/images/encoder-decoder.png  width="500"></p>
 
